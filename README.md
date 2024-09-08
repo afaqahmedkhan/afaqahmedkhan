@@ -1,36 +1,33 @@
 # Afaq Ahmed Khan
 
-👨‍💻 **Senior Frontend Developer** | 📧 [afaq.qwe@gmail.com](mailto:afaq.qwe@gmail.com)
+👨‍💻 **Software Engineer** | 📧 [afaq.qwe@gmail.com](mailto:afaq.qwe@gmail.com)
 
 ---
 
-## Hi there! 👋
+## Hello! 👋 Welcome to my GitHub
+I’m Afaq, a Full-Stack Software Engineer with over 8 years of experience developing robust, scalable, and user-friendly web applications. I am proficient in both frontend and backend development, working with a wide range of technologies including Java, JavaScript, TypeScript, and Spring Boot.
 
-Welcome to my GitHub profile! I'm Afaq, a passionate Senior Frontend Developer with over 8 years of experience crafting delightful user experiences. My expertise lies in building modern web applications using JavaScript, React, Nextjs and TypeScript. I have a keen eye for detail and a knack for creating accessible and user-friendly interfaces.
+I enjoy building clean and efficient codebases, solving complex challenges, and constantly learning new technologies. Whether it's backend API design or crafting seamless user interfaces, I thrive on delivering high-quality solutions that meet both user and business needs.
 
----
+🚀 Tech Stack & Skills
+### Languages:
+Java, JavaScript, TypeScript
+### Backend:
+Java (Spring Boot, JPA, Hibernate), Node.js
+Microservices, REST APIs
+PostgreSQL, MySQL, MongoDB
+Docker, Kubernetes
+### Frontend:
+JavaScript (React.js, Next.js, Vue.js)
+TypeScript, HTML5, CSS3, TailwindCSS
+Responsive UI/UX Design, Accessibility
+### DevOps:
+Git, GitHub, Jenkins, CI/CD
+AWS, Vercel, Docker Compose
+### Testing & Quality:
+JUnit, Mockito, Jest, React Testing Library
+Code Reviews, TDD
 
-## 🚀 Skills
-
-- **Languages**: JavaScript, TypeScript
-- **Frameworks/Libraries**: React.js, Next.js, Vue.js
-- **CSS Frameworks**: TailwindCSS, SCSS
-- **Testing**: Jest, React Testing Library
-- **Backend**: Node.js
-- **Version Control**: Git
-
----
-
-## 💼 Experience
-
-I have a proven track record of delivering high-quality code and collaborating effectively with cross-functional teams to bring ideas to life. Here's a snapshot of my experience:
-
-- Developed and maintained modern web applications using the latest frontend technologies.
-- Contributed to the design and implementation of scalable and performant solutions.
-- Ensured code quality through comprehensive testing and code reviews.
-- Mentored junior developers and actively participated in knowledge sharing sessions.
-
----
 
 ## 🌟 Other
 
