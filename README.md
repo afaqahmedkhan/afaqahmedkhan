@@ -13,7 +13,7 @@ I enjoy building clean and efficient codebases, solving complex challenges, and 
 ### Languages:
 Java, JavaScript, TypeScript
 ### Backend:
-Java (Spring Boot, JPA, Hibernate), Node.js
+Java (Spring Boot, JPA, Hibernate), Node.js, ExpressJs
 Microservices, REST APIs
 PostgreSQL, MySQL, MongoDB
 Docker, Kubernetes
@@ -23,7 +23,7 @@ TypeScript, HTML5, CSS3, TailwindCSS
 Responsive UI/UX Design, Accessibility
 ### DevOps:
 Git, GitHub, Jenkins, CI/CD
-AWS, Vercel, Docker Compose
+AWS, Vercel, Docker Compose, Kubernetes
 ### Testing & Quality:
 JUnit, Mockito, Jest, React Testing Library
 Code Reviews, TDD
