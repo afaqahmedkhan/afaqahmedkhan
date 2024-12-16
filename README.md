@@ -12,15 +12,18 @@ I enjoy building clean and efficient codebases, solving complex challenges, and 
 🚀 Tech Stack & Skills
 ### Languages:
 Java, JavaScript, TypeScript
+
+### Frontend:
+JavaScript (React.js, Next.js, Vue.js)
+TypeScript, HTML5, CSS3, TailwindCSS
+Responsive UI/UX Design, Accessibility
+
 ### Backend:
 Java (Spring Boot, JPA, Hibernate), Node.js, ExpressJs
 Microservices, REST APIs
 PostgreSQL, MySQL, MongoDB
 Docker, Kubernetes
-### Frontend:
-JavaScript (React.js, Next.js, Vue.js)
-TypeScript, HTML5, CSS3, TailwindCSS
-Responsive UI/UX Design, Accessibility
+
 ### DevOps:
 Git, GitHub, Jenkins, CI/CD
 AWS, Vercel, Docker Compose, Kubernetes
